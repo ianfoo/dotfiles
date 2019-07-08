@@ -13,7 +13,7 @@ appNameHotKeys = {
     ["Relisten"] = "R",
     ["Slack"] = "S",
     ["iTerm"] = "T",
-    ["Visual Studio Code"] = "V"
+    ["Visual Studio Code - Insiders"] = "V"
 }
 
 for app, key in pairs(appNameHotKeys) do
